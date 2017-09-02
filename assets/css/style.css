@@ -1,11 +1,48 @@
 body{
-	background-image: url(http://static.wixstatic.com/media/cb540d_2a08fb631b9150898ae4e72064e9b097.jpg);
-	color: black;
-	font: 40px;
+	background-image: url(http://cache.gawker.com/assets/images/lifehacker/2011/06/vintage-rainbow-color-badge.png);
+}
+
+
+h1{
+	font-size: 40px;
+}
+
+button{
+	margin: 20px;
+	color: blue;
+	width: 90px;
+	height: 40px;
+	border-radius: 20px;
+	background-color: #7FFFD4;
 
 }
 
-#music-form{
-	margin-left: 1000px;
-	padding-top: 20px;
+
+form{
+	margin: 10px;
+
 }
+
+input{
+	margin: 10px;
+	float: right;
+}
+
+#cartoon-form{
+	float: right;
+}
+
+#cartoonsView{
+
+top: 50%;
+left: 50%;
+
+
+}
+
+.gifDiv{
+	float: left;
+	margin: 20px;
+}
+
+
