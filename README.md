@@ -2,7 +2,7 @@
 
 ### **Description**
 
-A web application where a user is presented with a set of immediate cartoon search options, where upon selection of a specific cartoon by clicking the button of that cartoon they are displayed with ten Giphs with images of that cartoon. The rating is also displayed and the fun part is that they can play or pause the Giphy! Their is also a search bar where the user can enter the name of their favorite cartoons and add them to the web application for instant access. 
+A web application where a user is presented with a set of immediate cartoon search options, where upon selection of a specific cartoon by clicking the button of that cartoon they are displayed with ten Giphs with images of that cartoon. The rating is also displayed and the fun part is that they can play or pause the Giphy! Their is also a search bar where the user can enter the name of their favorite cartoon and add them to the web application for instant access. 
 
 ### **WHAT IS GIPHY?**
 
